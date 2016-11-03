@@ -1,0 +1,36 @@
+{
+  "name": "raasas",
+  "version": "1.0.0",
+  "description": "rasas react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurusubramaniam/reactRasas.git"
+  },
+  "keywords": [
+    "rasas",
+    "kitchen"
+  ],
+  "author": "gurusubramaniam sundararaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurusubramaniam/reactRasas/issues"
+  },
+  "homepage": "https://github.com/gurusubramaniam/reactRasas#readme",
+  "devDependencies": {
+    "react-dev-server": "^0.6.2",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "babel": "^6.5.2",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
