@@ -6,7 +6,7 @@ var host = server.address().address;
 var port = server.address().port;
 
 
-app.use(express.static('public'))
+app.use(express.static('built'))
 
 app.get('/', function(req, res, next){
 //	res.send('HELLO';
