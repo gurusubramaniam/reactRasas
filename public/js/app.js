@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 var Comment = React.createClass({
 	render: function(){
-		return (<p>SampleTest page </p>);
+		return (<p>SampleTest page eee</p>);
 	}
 });
 
